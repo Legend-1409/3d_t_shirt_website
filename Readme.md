@@ -34,3 +34,6 @@ Using vite to get template for react code for client side
 5. mongoose
 6. nodemon
 7. openai
+
+## Server side is hosted on render (https://threed-t-shirt-website-server.onrender.com)
+## Client side is hosted on vercel (https://3d-t-shirt-website.vercel.app/)
