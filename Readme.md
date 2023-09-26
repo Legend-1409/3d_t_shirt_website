@@ -37,3 +37,6 @@ Using vite to get template for react code for client side
 
 ## Server side is hosted on render (https://threed-t-shirt-website-server.onrender.com)
 ## Client side is hosted on vercel (https://3d-t-shirt-website.vercel.app/)
+
+To run client side -> npm run dev
+To run server side -> npm run server
